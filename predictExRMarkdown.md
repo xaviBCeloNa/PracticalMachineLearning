@@ -2,30 +2,6 @@
 ### Predict the manner in which Users did Exercise
 ==============================================
 
-
-```
-## Loading required package: caret
-```
-
-```
-## Warning: package 'caret' was built under R version 3.1.2
-```
-
-```
-## Loading required package: lattice
-## Loading required package: ggplot2
-## Loading required package: randomForest
-```
-
-```
-## Warning: package 'randomForest' was built under R version 3.1.2
-```
-
-```
-## randomForest 4.6-10
-## Type rfNews() to see new features/changes/bug fixes.
-```
-
 The main objective of the project is to figure out a model that predict how users did exercice (_classe_ variable). You may use any of the other variables to predict with. In order to fullfil the project it is necessary to:
 * create a report describing how you built your model, 
 * describe how it is used cross validation,
