@@ -11,3 +11,7 @@ In this project, your goal will be to use data from accelerometers on the belt, 
 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways.
 More information is available from the website here: http://groupware.les.inf.puc-rio.br/har 
 (see the section on the Weight Lifting Exercise Dataset). 
+
+If you want to check the results:
+
+# Results [Go:mag:](https://github.com/xaviBCeloNa/PracticalMachineLearning/blob/master/predictExRMarkdown.md)
